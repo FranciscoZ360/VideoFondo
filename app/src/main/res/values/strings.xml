@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VideoFondo</string>
+    <string name="wallpaper_description">Tu propio video como fondo de pantalla animado</string>
+    <string name="no_video">Todavía no elegiste un video</string>
+    <string name="video_ready">Este es el video de tu fondo</string>
+    <string name="video_error">No se pudo reproducir este video, prueba con otro</string>
+    <string name="no_picker">Tu teléfono no permite abrir el selector de fondos animados</string>
+    <string name="sound">Reproducir con sonido</string>
+    <string name="pick">Elegir video</string>
+    <string name="apply">Establecer como fondo de pantalla</string>
+</resources>
