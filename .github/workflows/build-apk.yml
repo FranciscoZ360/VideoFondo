@@ -36,6 +36,6 @@ jobs:
       - name: Publicar en Releases (descarga directa desde el celular)
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: build-${{ github.run_number }}
-          name: VideoFondo ${{ github.run_number }}
+          tag_name: v1.${{ github.run_number }}
+          name: VideoFondo v1.${{ github.run_number }}
           files: VideoFondo.apk
